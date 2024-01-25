@@ -9,12 +9,12 @@ function App() {
     <Router basename={process.env.PUBLIC_URL}>
       <Navbar/>
       <Routes>
-        <Route path="/" index element={<CategoriesList/>}/>
-        <Route path="/category/:category" element={<SingleCategory/>}/>
-        <Route path="/area/:area" element={<SingleCategory/>}/>
-        <Route path="/recipe/:recipeid" element={<Recipe/>}/>
-        <Route path="/random" element={<Recipe/>}/>
-        <Route path="/search/:search" element={<SingleCategory/>}/>
+        <Route exact path="/" index element={<CategoriesList/>}/>
+        <Route exact path="/category/:category" element={<SingleCategory/>}/>
+        <Route exact path="/area/:area" element={<SingleCategory/>}/>
+        <Route exact path="/recipe/:recipeid" element={<Recipe/>}/>
+        <Route exact path="/random" element={<Recipe/>}/>
+        <Route exact path="/search/:search" element={<SingleCategory/>}/>
       </Routes>
     </Router>
   </>);
