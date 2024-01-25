@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.07095862.css",
-    "main.js": "/react-gh-pages/static/js/main.d95819a1.js",
-    "static/js/787.08734711.chunk.js": "/react-gh-pages/static/js/787.08734711.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.07095862.css.map": "/react-gh-pages/static/css/main.07095862.css.map",
-    "main.d95819a1.js.map": "/react-gh-pages/static/js/main.d95819a1.js.map",
-    "787.08734711.chunk.js.map": "/react-gh-pages/static/js/787.08734711.chunk.js.map"
+    "main.css": "/recipe-app/static/css/main.07095862.css",
+    "main.js": "/recipe-app/static/js/main.4529f967.js",
+    "static/js/787.08734711.chunk.js": "/recipe-app/static/js/787.08734711.chunk.js",
+    "index.html": "/recipe-app/index.html",
+    "main.07095862.css.map": "/recipe-app/static/css/main.07095862.css.map",
+    "main.4529f967.js.map": "/recipe-app/static/js/main.4529f967.js.map",
+    "787.08734711.chunk.js.map": "/recipe-app/static/js/787.08734711.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.07095862.css",
-    "static/js/main.d95819a1.js"
+    "static/js/main.4529f967.js"
   ]
 }
